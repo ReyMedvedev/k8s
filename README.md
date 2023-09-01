@@ -1,4 +1,8 @@
 ```
+https://kubespray.io - містить все для проекта, але багато зайвого
+```
+
+```
 kubectl cluster-info
 kubectl get nodes
 kubectl get all -n <namespace>
